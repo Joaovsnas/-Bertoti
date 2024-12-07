@@ -1,6 +1,0 @@
-org\example\Bot.class
-org\example\TelegramBot.class
-org\example\OpenAIService$OpenAIResponse$Choice.class
-org\example\Config.class
-org\example\OpenAIService.class
-org\example\OpenAIService$OpenAIResponse.class
