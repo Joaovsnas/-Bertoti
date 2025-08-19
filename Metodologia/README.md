@@ -5,7 +5,7 @@
 Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
 
 ## Contatos
-* [GIT](https://www.git.com)
+* [GIT](https://github.com/Joaovsnas/)
 * [LinkedIn](https://www.linkedin.com)
 
 ## Meus Principais Conhecimentos
