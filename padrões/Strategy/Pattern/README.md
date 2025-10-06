@@ -16,12 +16,13 @@ Quando uma classe precisa implementar diferentes variações de um algoritmo, e 
 | Quando uma classe tem muitos condicionais dizendo “se for este caso, faça isso; se for outro caso, faça aquilo”. Strategy ajuda a eliminar esses condicionais. |
 | Quando você quer tornar o código mais flexível, aberto para extensão mas fechado para modificações do código existente. |
 
-| VANTAGENS | DESVANTAGENS |
-|:----------|:-------------|
-| Permite trocar de algoritmo em tempo de execução. | Introduz mais classes / interfaces, o que pode complicar se houver poucas variações ou se elas mudarem pouco. |
-| Isola os detalhes de cada algoritmo do restante do sistema. | O cliente precisa saber qual estratégia escolher, ou ao menos haver lógica para decidir isso. |
-| Reduz duplicação de código, melhora organização. |  |
-| Facilita manutenção e extensão. |  |
+| VANTAGENS |
+|:----------|
+| Permite trocar de algoritmo em tempo de execução. |
+| Isola os detalhes de cada algoritmo do restante do sistema. | 
+| Reduz duplicação de código, melhora organização. |  
+| Facilita manutenção e extensão. |  
+
 
 
 
