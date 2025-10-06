@@ -9,8 +9,6 @@ Quando uma classe precisa implementar diferentes variações de um algoritmo, e 
 | O contexto possui uma referência para uma estratégia e delega a execução do algoritmo para ela. |
 | O cliente decide qual estratégia usar e pode até trocar a estratégia em tempo de execução. |
 
-
-
 | QUANDO USAR |
 |:-----------------------------|
 | Quando você precisa variar algoritmos ou comportamentos dentro de um objeto. |
@@ -24,3 +22,13 @@ Quando uma classe precisa implementar diferentes variações de um algoritmo, e 
 | Isola os detalhes de cada algoritmo do restante do sistema. | O cliente precisa saber qual estratégia escolher, ou ao menos haver lógica para decidir isso. |
 | Reduz duplicação de código, melhora organização. |  |
 | Facilita manutenção e extensão. |  |
+
+
+
+
+
+
+
+
+
+
