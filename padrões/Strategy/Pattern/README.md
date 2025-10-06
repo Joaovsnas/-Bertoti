@@ -1,4 +1,4 @@
-## Padrão de Projeto: Estratégia(Strategy) - Padrão Comportamental
+## Padrão de Projeto: Estratégia(Strategy) 
 
 Quando uma classe precisa implementar diferentes variações de um algoritmo, e essas variações mudam ao longo do tempo, adicionar novas opções ou modificações pode deixar o código inchado, cheio de condicionais, difícil de manter. 
 
@@ -22,6 +22,7 @@ Quando uma classe precisa implementar diferentes variações de um algoritmo, e 
 | Isola os detalhes de cada algoritmo do restante do sistema. | 
 | Reduz duplicação de código, melhora organização. |  
 | Facilita manutenção e extensão. |  
+
 
 
 
