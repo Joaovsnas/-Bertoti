@@ -1,35 +1,47 @@
-# Coloque seu nome aqui
+# João Victor Silva do Nascimento
 
 ## Introdução
 
-Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
+Aluno cursando Banco de Dados em FATEC São José dos Campos - Prof. Jessen Vidal, graduação iniciada em 2024; 
 
 ## Contatos
 * [GIT](https://github.com/Joaovsnas/)
 * [LinkedIn](https://www.linkedin.com)
 
 ## Meus Principais Conhecimentos
-Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
+Desenvolvimento de sistemas em Java e Gerenciamento em Banco de Dados relacional.
 
 
 ## Meus Projetos
 
-### Em 2021-2
-Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
+### Em 2024-2
+Projeto: Sistema PACER;
+Empresa: Projeto interno da FATEC;
+Problema: O projeto visava desenvolver um software intuitivo e seguro para que alunos possam se autoavaliar e professores gerenciar turmas, fornecer pontos para distribuição e gerar relatorios;
 
-[GIT](https://www.git.com)
+[GIT]((https://github.com/felpzreiz/API-Sistema-de-Avaliacao-PACER))
 
 #### Tecnologias Utilizadas
-Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
+- IDE: A IDE utilizada pela equipe foi o IntelliJ IDEA;
+- SGBD: O sistema gerenciador de banco de dados utilizado foi o PostgreSQL;
+- Wireframe: Para o desenho do wireframe do projeto, foi utilizado o Figma;
 
 #### Contribuições Pessoais
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
+Design inicial no Figma, frontend de telas (Telas envolvendo definição de critérios), Backend envolvendo o sistema envolvendo critérios.
 
 #### Hard Skills
-Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
+- Design: Framework inicial do projeto utilizando o Figma;
+- Java: Realização de sistema que cadastra informações e armazena em um banco;
+- JavaFX: Criação de telas com auxilio do software Scene Builder;
+- SGBD: Criação de tabelas e funções utilizando PostgreSQL;
 
 #### Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+Comunicação: Realizei a apresentação da Sprint Review 3, onde demonstrei aos demais colegas e professores o funcionamento do projeto desenvolvido, entre eles se destaca:
+- Separação de professor e aluno via tela de login;
+- Gerenciamento de grupos e escolha de pontos a serem distribuidos;
+- Criação de criterios especificos para cada sprint;
+- Definição de datas;
+- Avalição realizada pelo aluno atraves de seu login;
 
 ### Em 2022-1
 Mesmo formato
