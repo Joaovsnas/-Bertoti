@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     direction TB
 
@@ -16,3 +17,4 @@ classDiagram
 
     EstrategiaMedia <|.. MediaSimples
     EstrategiaMedia <|.. MediaPonderada
+
